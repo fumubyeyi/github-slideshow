@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Creating your own bugs and fixing the
 Use the left arrow to go back!
